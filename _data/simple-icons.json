@@ -13795,6 +13795,11 @@
             "source": "https://serverless.com"
         },
         {
+            "title": "Servicefabric",
+            "hex": "D05107",
+            "source": "https://learn.microsoft.com/en-us/azure/service-fabric/service-fabric-overview"
+        },
+        {
             "title": "Session",
             "hex": "000000",
             "source": "https://getsession.org"
